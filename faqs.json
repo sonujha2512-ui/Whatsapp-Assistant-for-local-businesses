@@ -1,0 +1,26 @@
+{
+  "hours": {
+    "keywords": ["hours", "open", "close", "timing", "time are you open"],
+    "answer": "EDIT ME: Our hours are Monday-Saturday, 10 AM - 8 PM. Closed Sundays."
+  },
+  "shipping": {
+    "keywords": ["shipping", "delivery", "deliver", "how long"],
+    "answer": "EDIT ME: We deliver within 3-5 business days. Shipping cost depends on location."
+  },
+  "returns": {
+    "keywords": ["return", "refund", "exchange"],
+    "answer": "EDIT ME: Returns accepted within 7 days of delivery, item must be unused."
+  },
+  "payment": {
+    "keywords": ["payment", "pay", "upi", "cash", "card"],
+    "answer": "EDIT ME: We accept UPI, cash on delivery, and card payments."
+  },
+  "contact": {
+    "keywords": ["contact", "human", "speak to someone", "call", "phone number"],
+    "answer": "EDIT ME: Call us at +91-XXXXXXXXXX or reply here and we'll get back to you."
+  },
+  "location": {
+    "keywords": ["location", "address", "where are you", "shop"],
+    "answer": "EDIT ME: We're located at [your address here]."
+  }
+}
